@@ -5,7 +5,7 @@
 * [掘金]()
 * [思否]()
 * [知乎]()
-* [语雀](https://www.yuque.com/yueer-hzw4r/dhp0bm)
+* [语雀](https://www.yuque.com/yueer-hzw4r)
 * [慕课]()
 
 ## 浏览器系列
